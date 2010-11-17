@@ -119,7 +119,7 @@ section#menu ul li a:hover {
 }
 
 section#greeting {
-	margin-bottom: 40px;
+	margin-bottom: 30px;
 }
 
 section#greeting p {
@@ -208,4 +208,13 @@ section#footer {
 	font: 11px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-align: right;
 	padding-bottom: 30px;
+}
+/* Extra styling */
+section#projects {
+	min-height: 300px;
+}
+section#projects section.project {
+	display: block;
+	height: 300px;
+	width: 960px;
 }

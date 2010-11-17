@@ -4,7 +4,7 @@ $(function () {
 		$('section#projects').css({ 'margin-bottom': '40px' });
 		$('section#projects').cycle({
 			fx:    'fade', 
-			timeout: 10050
+			timeout: 11000
 		});
 	}
 });

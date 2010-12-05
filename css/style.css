@@ -218,3 +218,7 @@ section#projects section.project {
 	height: 300px;
 	width: 960px;
 }
+section.copy h2 {
+	font-weight: lighter;
+	margin-bottom: 15px;
+}

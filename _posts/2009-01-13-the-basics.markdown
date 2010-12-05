@@ -1,0 +1,12 @@
+---
+layout: post
+title: The Basics
+---
+
+Humans socialize. Humans communicate. Humans share. Three constants in all of life, no matter who you are, where you are, what you believe, or what goals you have. They're instinctual. These three principals are what drive today's social networks, but have you ever thought that these basic tenants go back much farther than the foundation of the internet? 
+
+While many businesses and marketers are left admiring the shininess of social media, I can't help but notice that the users are perfect example of socialization, communication, and sharing. They've created a white, fresh frontier, untouched by the greasy hands of marketers. When you're in a company with a fading bottom line, extra vigilance is required when it comes to marketing your products. It's very hard to look at ever decreasing profit margins and lunge for the magic of social networking, as if applying it will solve all of your problems. I, along with many other informed individuals, will tell you repeatedly that just because your brand is connected, doesn't mean it will be successful. Connecting means nothing, unless you've got a community, a concept that predates the internet by many years - where we find it at the beginning of society itself.
+
+Regardless of what events surrounded the creation of human life, communal gatherings have been a staple for all time. At these gatherings, where you're from is of little importance, unless of course, the other individuals travel though your area, and thereby have a vested interest. No, to others, it's what you bring to the table - who you are, what you do, and how it can benefit them. When engaging in social networking, many companies, often to their detriment, fail to take this approach. Instead of taking interest in their connections, they act as if all people want to hear is company news, opinions, and press releases; let me assure you, that is not the case. Instead, many brands would do well to take a selfish position, and see what knowledge they can gain from their customer base. If your brand has loyal customers, they will likely jump at a chance to submit a new idea, critique a web interface, or provide simple feedback. To get this, all you have to do is ask.
+
+So, keep this in mind as you explore the worlds of social media. Remember that the rules governing them aren't new at all, and just because you have a worldwide audience, doesn't mean that they only care about you.

@@ -1,3 +1,4 @@
 regeneration: true
 server: true
 paginate: 5
+permalink: /:categories/:title

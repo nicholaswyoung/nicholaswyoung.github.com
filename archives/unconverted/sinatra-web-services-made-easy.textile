@@ -1,0 +1,13 @@
+title: Sinatra: web services made easy
+author: Nicholas
+date: 2009-07-31 23:08:40 -0500
+layout: post
+type: post
+
+<img class="alignright size-full wp-image-727" title="Frank Sinatra, who would've thought he could bring such inspiration?" src="http://nicholaswyoung.com/wp-content/uploads/2009/07/frank-sinatra-300x225.jpg" alt="Frank Sinatra, who would've thought he could bring such inspiration?" width="240" height="180" />
+
+If we talk at all, you've likely heard that I recently fell in love with the simplistic beauty of <a href="http://rubyonrails.org" target="_blank">Ruby on Rails</a>. As an application developer, it's now my platform of choice, since most of my creations tend to have strong ties to the back-end. Using Rails allows me to write in one language and achieve my goals, no matter what task is at hand. But, contrary to what some Rubyists would have you believe, Rails isn't the solution to all of your web programming woes. Occasionally, I need a simple abstraction layer over the HTTP protocols, allowing me to create, edit, delete - and nothing more.
+
+Enter <a href="http://sinatrarb.com" target="_blank">Sinatra</a>, a simple, elegant web services stack, designed to ease the development of small, agile web applications. In a matter of minutes, a decently-experienced Rubyist can setup and launch almost anything. Need an API? It's covered. Building a URL shortener? No problem. How about a twitter app? That's easy too.
+
+While <a href="http://sinatrarb.com" target="_blank">Sinatra</a> isn't ready to take center-stage as a large scale framework, I highly suggest that you give it a try. For small applications, it's a jewel.

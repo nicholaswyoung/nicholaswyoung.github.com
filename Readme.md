@@ -1,6 +1,6 @@
-## nicholaswyoung.com
+# Nicholas W Young.com
 
-These are the files that make up nicholaswyoung.com
+My Jekyll-powered website and blog.
 
 ## License
 

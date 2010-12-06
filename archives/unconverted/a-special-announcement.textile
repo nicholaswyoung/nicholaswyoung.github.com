@@ -1,0 +1,13 @@
+title: A Special Announcement
+author: Nicholas
+date: 2010-03-06 06:28:00 -0600
+layout: post
+type: post
+
+Over the last six years, I've had what I believe to be a successful freelancing career. I've worked for a plethora of different companies in different markets, and helped an equally large number of individuals shape their personal brands - through web design, development, and consulting services. I've also ran a decently successful blog for the last several years, and doing my best to serve as a reliable source for those who need inspiration, or simply information on a specific subject. It's been a great six years, and I want to thank every one of my clients, fellow freelancers, and mentors.
+
+Today, I'm incredibly happy to announce that I'll be doing something a little bit different. Roughly a year ago, I learned about "Mad Mimi":http://madmimi.com - a kick-ass e-mail marketing firm - from my good friend "Josh Preston":http://joshpreston.com. Today, I'm excited to announce that I'll be joining their ranks as a software craftsman and support agent. Over the last year, I've been able to learn more about the company, meet Gary (it's founder). Ever since Josh's recommendation, I've used Mad Mimi for my mailing needs, and recommended that many of my clients do the same. Why? Because Mimi's system is incredibly simple, but also offers advanced tools for developers who want to get their hands dirty.
+
+For clarity sake, I would like to disclose that I have been discussing employment with the company for several months now, and during that time, I have not actively sold their services as an affiliate. I thought it best to do this, and avoid any potential conflict of interest. 
+
+Again, thanks to all that contributed to my life during these past few years. It's been an exciting ride - one that I won't soon forget.

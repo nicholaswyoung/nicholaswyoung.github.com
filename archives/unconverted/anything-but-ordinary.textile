@@ -1,0 +1,12 @@
+title: Anything but ordinary
+author: Nicholas
+date: 2009-06-26 13:39:29 -0500
+layout: post
+type: post
+
+<script src="http://i.cdn.turner.com/cnn/.element/js/2.0/video/evp/module.js?loc=dom&amp;vid=/video/tech/2009/06/11/ship.container.homes.cnn" type="text/javascript"></script>
+<noscript>Embedded video from <a href="http://www.cnn.com/video">CNN Video</a></noscript>
+
+I plan on building a house using this very technique, and although my plans are a few years out, you can bet that they'll be posted here.
+
+<em>Kudos to <a href="http://rexhammock.com" target="_blank">Rex Hammock</a> for bringing this video to my attention.</em>

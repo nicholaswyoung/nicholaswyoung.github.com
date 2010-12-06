@@ -1,0 +1,49 @@
+title: Switching to a Mac? Let me help.
+author: Nicholas
+date: 2009-08-29 16:33:29 -0500
+layout: post
+type: post
+
+As of December, I will have been using a Mac for 6 years. That figure amazes even me - but time flies when it's rather stress free. I'm not saying that everything has been perfect, but I've always been one call away from help, and the platform appears to be, by my operating standards, the best out there for both home and business use. (I must note, as a previous small business IT consultant, I saw the worst that Windows could dish out.)
+
+During the past week, I've been helping steer a <a href="http://bobbyhorton.com" target="_blank">dear friend</a> towards his first Mac purchase (which happened yesterday). I had planned on making a list of must-have independently developed applications for him, but I believe that you, and other friends in the community can benefit from the list as well - so I decided to publish it.
+
+I've listed each application's licensing info alongside its title, so you can easily decide which ones you want to try (most have at least a 15 day trial period). And now, without any further jabber from me, the 12 applications for OS X that I couldn't live without.
+
+<strong><a href="http://blacktree.com" target="_blank">Quicksilver</a></strong><strong> - Freeware</strong>
+By far, Quicksilver is the most advanced, keyboard-driven launcher. If your hands live on the keyboard, this little app will cause your computing speed to at least double. In fact, it's so useful that I install it immediately after the operating system is on every time. My only hope is that it gets updated for Snow Leopard. During my previous trial on Apple's newest OS, it worked, but not without a few bugs.
+
+<strong><a href="http://getdropbox.com" target="_blank">Dropbox</a></strong><strong> - Freeware (up to a point)</strong>
+For those of us who have multiple computers, Dropbox is a life saver. It allows you to have both private and public shared folders that automatically sync between all of the computers registered on your Dropbox account - plus, each and every file you sync is available online - just sign into your account, and download away. Sign up for free, and get 2 gigabytes of free storage. If you need more, it's still relatively cheap.
+
+<strong><a href="http://colloquy.info/" target="_blank">Colloquy</a></strong><strong> - Freeware</strong>
+If you frequent any IRC chatroom (UStream included), you'll want Colloquy. While some OS X IRC clients tend to favor function over form, Colloquy allows you to have both. I routinely login to IRC with my UStream account while watching a live broadcast, thus circumventing the need to run their flash client, and saving my precious RAM for other processing tasks.
+
+<strong><a href="http://www.reggieashworth.com/moreinfo" target="_blank">AppDelete</a></strong><strong> - Shareware ($5)</strong>
+Here we have the uninstaller that Apple forgot. Unfortunately, if you were told that deleting a .app file removes all of the applications' elements, your educator was incorrect. There are several preference files that are left lying around, just waiting for you to reinstall the application. However, if you're completely finished with an app, drag it into AppDelete, and with a single click, everything is removed automagically.
+
+<strong><a href="http://fluidapp.com/" target="_blank">Fluid</a></strong><strong> - Freeware</strong>
+Do you use web-based applications a lot, and wish that they could be ran as native programs on your Mac? Wish no more - I've got your solution. Fluid allows you to load any website or application (for instance, <a href="https://www.freshbooks.com/?ref=fcf6c967137388-1" target="_blank">Freshbooks</a>) as a native application on your Mac. It's not complex either, just enter the URL you wish to make into an application, and a few seconds later, voila - you're ready to rock.
+
+<strong><a href="http://www.titanium.free.fr/pgs2/english/download.html" target="_blank">Onyx</a></strong><strong> - Freeware</strong>
+Though I had forgotten about this one for several years now, with its new Leopard update, it's no less relevant. Onyx is the definitive maintenance utility for OS X, allowing you to remove old temporary internet files, clean up irrelevant aliases, and otherwise tweak your system for optimum performance.
+
+<strong><a href="http://www.potionfactory.com/thehitlist/" target="_blank">The Hit List</a></strong><strong> - $49.95</strong>
+Yeah, it's probably going to be the most expensive To-Do program you've ever purchased, but believe me, it kicks ass. When I started using The Hit List, my productivity skyrocketed, mainly because I knew what <em>had</em> to happen during the 10 hours that I'm working. Thankfully, I was able to purchase this one during the <a href="http://macheist.com" target="_blank">MacHeist</a> promotion, where you get a bundle of independently developed Mac apps for only $35.
+
+<strong><a href="http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html" target="_blank">SuperDuper</a></strong><strong> - Shareware ($27.95)</strong>
+While Apple's Time Machine is an awesome backup utility, it leaves one feature to be desired: the ability to create and maintain bootable images of your machine. (For the non-technical, having a bootable backup ensures that you can keep working, even if your main hard drive goes out. Just connect an external drive, and keep going.) ShirtPocket software's SuperDuper fills in this void nicely - allowing everyone, regardless of technical prowess - to make sure their files are safe.
+
+<strong><a href="http://ashchan.com/projects/gmail-notifr" target="_blank">GMail Notifr</a></strong><strong> - Freeware</strong>
+With the increasing popularity of GMail and Google Apps, odds are that neither you or your ISP is hosting your email. There's one problem with this equation though: in a world where real-time collaboration matters, how do you know when to check your web-based email? Easy - just install the GMail Notifr, and when new mail arrives, a small notification window will pop up, letting you know that it's time to visit your inbox.
+
+<strong><a href="http://sbooth.org/Max/" target="_blank">Max</a></strong><strong> - Freeware</strong>
+As the ultimate audio encoder, Max is a must for media junkies like me. Just drag and drop any audio file into Max's convert box, set your ID tags and output preferences, and click submit. Need to convert FLAC to Apple Lossless? Done. How about MP3 to OGG? With ease. If you deal with audio production at any level, Max will change the way you work. Really.
+
+<strong><a href="http://rogueamoeba.com/audiohijackpro/" target="_blank">Audio Hijack Pro</a></strong><strong> - $32</strong>
+It's like I couldn't just list one killer audio app, right? While many audio producers choose Mac because of the solid operating system, they miss one of what I believe to be OS X's sweet secrets: CoreAudio. That's right, Macintosh has it's own, dedicated audio framework that allows multiple channels to be simultaneously recorded, routed, and broadcast - and no application helps you harness this power like Rogue Amoeba's Audio Hijack Pro. Record audio from any open application - without any outboard gear. Just point and click. Re-route audio from your VoIP call into your UStream broadcast, too. You dream it, you can do it.
+
+<strong><a href="http://adium.im/" target="_blank">Adium</a></strong><strong> - Freeware</strong>
+This program has become a staple for those who use IM on the Mac. For me, logging into Google Talk, AOL instant messenger, and MSN chat all at once is about more than just being connected. At times, it's the lifeblood of business communications. Adium allows me to do all of that, and more.
+
+So, what's your favorite app for Mac? Let me know in the comments, and I'll update the post.

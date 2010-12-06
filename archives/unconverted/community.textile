@@ -1,0 +1,17 @@
+title: Community
+author: Nicholas
+date: 2009-10-29 06:02:51 -0500
+layout: post
+type: post
+
+Some lessons take years to learn. Some stories are best told after years of keeping them to yourself. This post is a perfect illustration of both.
+
+In 2007, I moved to Nashville, dropped out of college, started a business, and debuted my first web application. In that order, and all in less than 12 months. It's taken me a solid year and change to realize what motivated the choices I made then, and glean what lessons I could from them. Today, I present to you, a lesson on community, from the perspective of someone who truly misunderstood it's power.
+
+When I exited my second college experience in late 2007, I shopped the job market for a while. Time was on my side, or so I thought. Having recently picked up a business license and revived my skills in web design and development, I thought life was just beginning to get exciting again. However, I needed full-time employment somewhere - as my business was merely a hobby at that point. After my job search ended fruitlessly in early 2008, I returned to my side project that had carried me through the previous six months, and ArtistOne was born.
+
+I hooked up with a local Python developer, and we began working on what I felt was the next killer app. (An app that has yet to launch as of this writing.) Once the groundwork was laid, and we had a functional site, promotion was next. Looking around, I discovered that the planning session for BarCamp Nashville 2008 was in full swing, and the even was gaining momentum, so we signed up to present. A month went by, and before I knew it - I was standing on stage, pitching the merits of my product, along with plenty of related industry data. The presentation was great, and most people loved it, but it was hardly what it should have been. There were haters, and though I was frustrated with them at the time, I see their point clearly now.
+
+Over the past year, I've come to appreciate what community can, and does mean, to those trying to start something new. Treated properly, it's an amazing source of inspiration, encouragement, and passion. Address your community improperly, and each member could become your worst enemy, or at least, a roadblock to where you need to go.
+
+Thankfully, those around me were willing to forgive my misunderstanding. Community events like BarCamp aren't meant to pitch your big idea, unless it directly benefits everyone. Instead, it's the open-source sharing of knowledge among friends that these events thrive on. When you step on stage, remember - you're essentially sharing a good brew with your friends, and having a frank conversation. That's all.

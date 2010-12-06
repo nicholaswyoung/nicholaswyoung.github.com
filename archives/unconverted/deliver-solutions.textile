@@ -1,0 +1,17 @@
+title: Deliver a Solution
+author: Nicholas
+date: 2010-02-07 13:02:38 -0600
+layout: post
+type: post
+
+The original iPod sucked. People whined about how expensive it was in comparison to it's competitors, "how little storage capacity there was":http://apple.slashdot.org/article.pl?sid=01/10/23/1816257&tid=107, and how iTunes was the only way to manage media on your device. Everybody predicted it's failure, and now, nine years later, Apple has unveiled it's latest creation, and already the naysayers are taking their chance to spread negativity. Eventually, the iPod would go on to change how the world consumed media, reaching heights far above the projections of pundits, but for a moment, let's pause and look at a few interesting points.
+
+Apple does a little bit of everything. They're not primarily a mobile or media device company. Instead, they manufacture a plethora of products, ranging from desktop and laptop computers, mice and computing accessories, mobile phones and media players - then cap it all off with several operating systems, one for each type of product, that allows the user to preform routine tasks (that are sometimes difficult on other platforms) with ease. Add to that their competitively priced AppleCare service plans, and you've got a complete chain of solutions for anybody who uses electronics in the 21st century. Step back, and you'll realize that Apple does more than provide devices or software - they provide solutions.
+
+When I walk into my favorite restaurant, I know exactly what to expect. There's typically several reasons I favor one establishment over another, but for the most part, two points stand out: the quality of the food, and service. I honestly don't care how long it takes to prepare my meal, just so long as it's not a five hour wait - a limit exists, but it exceeds any reasonable amount of time. When the food is served, I require that it be hot, but beyond that - I'm fairly easy to please - though what really knocks my socks off starts after the food arrives. It takes a good server to be efficient and available, but not hover around the diner's table. If I get a server who is _that_ good, they get a nice tip. Why? Because they provided me with an experience I couldn't get anywhere else.
+
+Driving right to the point, I believe that far too many companies in today's marketplace focus on all of the wrong things. Sure, your product costs less than your competitors - but does it offer me the same ease of maintenance and use? If the answer is no, then I'll probably be off to look at someone else's wares - and I'll keep moving until I find an efficient _solution_.
+
+As a web developer, I've had the chance to put this idea into practice. My clients don't care how much I know, but rather whether or not I'm willing to use my knowledge to guide and explain the process to them. When choosing a developer, I've found that the ace who floats high above everyone else, doing work in a sterile box gets far less respect, than someone who is willing to share their experiences for the client's good. It's about seeing the whole project, planning ahead, accounting for instructional time, and providing a completely different experience than anyone else could.
+
+So, what can you do? How can your company start selling experiences and solutions? Every day, reach out. Begin forming connections with potential clients well before they decide to buy. Be human, and concentrate more on relationships than just the bottom line. You'll be happier, healthier, and more successful for it.

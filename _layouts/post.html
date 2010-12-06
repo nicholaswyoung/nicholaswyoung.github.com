@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Contact | Nicholas Young - digital artist, software consultant, event planner, and producer</title>
+	<title>{{ page.title }} | Writings | Nicholas Young - digital artist, software consultant, event planner, and producer</title>
 	<meta name="description" content="The home of Chicago-based digital artist, software consultant, and producer Nicholas Young." />
 	<meta name="keywords" content="nicholas young, chicago web design, chicago design, chicago software consultant, chicago, audio production" />
 	<meta name="author" content="Nicholas Young">
@@ -30,12 +30,46 @@
 		<section class="fine_line grid_12"></section>
 		<section class="area_title grid_12">
 			<h1> {{ page.title }}</h1>
+			<section class="meta">
+				Posted on {{ page.date | date_to_string }}, by {{ page.author }} - <a href="{{ post.url }}">Permalink</a>
+			</section>
 		</section>
 		<section id="main" class="grid_12">
 			<section class="content grid_8 alpha">
 				<section class="copy">
 					{{ content }}
 				</section>
+			</section>
+			<section class="sidebar grid_4 omega">
+				<h2>The Blog</h2>
+				<p>
+					<b>What do you charge?</b>
+				</p>
+				<p>
+					Hm, it's really hard to say. It depends on the time involved, how big a project is, and frankly - what I'll be doing.
+					I know you would really like to know this, and my answer here may be a bit unnerving - but I believe it's best
+					if both of us is open. It's best that we discuss your project, and then I'll get in touch with a quote, okay?
+				</p>
+				<p>
+					<b>I've got this awesome idea for a web application! Can you help me build it?</b>
+				</p>
+				<p>
+					Probably. Let's at least chat about it, and see what I can do. I'm well versed in PHP, Python, Javascript, and Ruby - so if it can be done, I can probably do it. Let's talk, shall we?
+				</p>
+				<p>
+					<b>I spoke with Company A - they said they'll build my site for $500. Can you match that, because I like your work better.</b>
+				</p>
+				<p>
+					Maybe. As I hope you've seen, I put a lot of work into everything - to make sure you look the best online. Putting your name on a crappy piece of work makes us both look bad (it's kinda like walking out the door half-dressed). But, don't let that stop you from getting in touch.
+				</p>
+				<p>
+					<b>I've got an application that's half finished. My developer left - can you finish it?</b>
+				</p>
+				<p>
+					Good question! I'd love to help, but before either of us dig in, it's best to do what I call a "code review".
+					Essentially, we sit down and go over what's finished, and what isn't. We make sure the part that is finished
+					has been adequately tested, so we have a strong foundation to build on.
+				</p>
 			</section>
 		</section>
 		<section class="fine_line grid_12"></section>

@@ -1,0 +1,34 @@
+title: Compiling libRETS on 64-bit Linux
+author: Nicholas
+date: 2009-09-11 23:44:30 -0500
+layout: post
+type: post
+
+I'm an open-source junkie. I run almost linux almost exclusively, program in Ruby, Python, and PHP for work, and then write code to give away in my spare time.
+
+Recently, a client from the real estate industry approached me, asking if he could download all of the listings from a certain MLS, and display them on his website through a Wordpress plugin. After looking at the various open source tools that parse the RETS (the Real Estate Transaction Standard) data feed, I agreed to take on the project. That was several weeks ago.
+
+Up until now, I've been writing, and rewriting my software. It took a while, but now, I finally understand all of RETS nuances. (For one, some servers don't support all of the defined fields.) This weekend, I had planned to roll out our backend, but because libRETS was originally written in 32 bit, I had some problems when compiling it on my launch server - a 64-bit Debian Etch box. So, I did what any enterprising hacker would do - and beat it into submission. The following steps will take you through the install and compilation of libRETS with Ruby bindings. So, if you're ready, let's dive in.
+
+<code> $: apt-get install libexpat1-dev libcurl3-dev libboost-dev libboost-filesystem-dev cantlr libantlr-dev autoconf build_essential ruby ruby-dev swig</code>
+
+(Swig is crucial, if you want external bindings for libRETS - i.e. Python, Ruby. Be advised: your distro may label Ruby as ruby1.8 and ruby1.8-dev)
+
+<code> $: ln -s /usr/bin/runantlr /usr/bin/antlr</code>
+
+(This was a major issue, because /usr/bin/antlr doesn't exist on most of the systems I've tried.)
+
+<code> $: cd /usr/local/src
+$: wget http://www.crt.realtors.org/projects/rets/librets/files/librets-1.3.3.tar.gz
+$: tar xzvf librets-1.3.3.tar.gz
+$: cd librets-1.3.3
+$: ./configure --enable-fPIC --enable-shared-dependencies --disable-perl --disable-java --disable-php --disable-dotnet --disable-python</code>
+
+(Subsitute your own flags, if necessary. Shared dependencies and fPIC caused the biggest issues. Failure to set them correctly results in a failed install.)
+<code>
+make
+make install</code>
+
+...then install.
+
+Let me know if you need further help. I may update this post as needed.

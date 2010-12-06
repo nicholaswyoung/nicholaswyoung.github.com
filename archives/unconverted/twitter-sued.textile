@@ -1,0 +1,13 @@
+title: Twitter sued: one more nail in the coffin for patents?
+author: Nicholas
+date: 2009-08-06 17:19:35 -0500
+layout: post
+type: post
+
+Over the past few months, I've come to the realization that the American system for patenting a specific methodology isn't helping innovation at all. This morning, I learned that Twitter was being sued by TechRadium, a Texas-based company, that claims that the lightweight social network is infringing on the company's patent for distributed messaging systems.
+
+From the legal document:
+<blockquote>TechRadium develops, sells, and services mass notification systems that allow a group administrator or ?message Author? to originate a single message that will be delivered simultaneously via multiple communication gateways to members of a group of ?message Subscribers.? .... This technology is patented by the Plaintiff, TechRadium, and marketed under the trade name ?IRIS?? (Immediate Response Information System). Among other things, the patented IRIS? technology eliminated the need for an Author to send multiple identical messages, and allowed Subscribers to select the most convenient form of notification for them.</blockquote>
+Let's be clear: the patents held by TechRadium are for the creation of a distributed messaging system. Simply put, if I send a text message with the same content to multiple recipients, or create a threaded message on facebook, I have probably "infringed" on their patent too.
+
+Honestly, as the times change, suits like this make me wonder if we need to have patents at all. Why don't we let competition govern the market, rather than money? That is all.

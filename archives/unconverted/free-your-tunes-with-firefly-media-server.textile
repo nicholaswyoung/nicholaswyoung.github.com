@@ -1,0 +1,11 @@
+title: Free Your Tunes with Firefly Media Server
+author: Nicholas
+date: 2009-08-03 01:29:39 -0500
+layout: post
+type: post
+
+My music library is roughly 100 gigabytes in size, and contains multiple file formats including Apple Lossless, FLAC, &amp; MP3. Chances are, if you're reading this, your library is of equal size, or at least as diverse format wise. For several months now, I've struggled to find the right solution for storing and sharing my tunes with my wife and those who visit our home. Some might have suggested that I purchase a Mac mini, which was an option I had previously considered, but I already had a Ubuntu Linux server box - so I improvised, and installed <a href="http://www.fireflymediaserver.org/" target="_blank">Firefly Media Server</a>.
+
+Utilizing an open-source branch of the digital audio access protocol (DAAP), Firefly is able to take a folder of audio files, organized however you see fit, and allow anyone on your LAN to fire up iTunes and stream away - and iTunes can even play my FLAC files too, thanks to on the fly transcoding.
+
+If you're running Ubuntu, or another Debian variant, installation is easy. I won't go into detail, as the full instructions are available at the <a href="http://www.fireflymediaserver.org/" target="_blank">Firefly</a> website, but I suggest you give it a try, even if you aren't the hacker type. Setup is quick and painless - what have you got to lose?

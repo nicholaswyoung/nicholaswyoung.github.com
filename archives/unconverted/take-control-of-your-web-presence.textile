@@ -1,0 +1,11 @@
+title: Take Control of Your Web Presence
+author: Nicholas
+date: 2009-08-12 19:39:37 -0500
+layout: post
+type: post
+
+Accessibility. It's a rarely addressed issue on the web these days, but in the past 24 hours, I've encountered at least three sites where the owner probably has to contract a web designer if they want to change out any of the site's content. Honestly, as a developer myself, I couldn't stand being tied to my clients that way. It's not that I can't use the money (in fact, some people would rather have me to do all of their web-related work, and will pay dearly for it), but instead, I want my clients to be educated, empowered content creators - to let me put the tools in their hands, teach them how to use them, and then fade into the background, until I'm needed again.
+
+This is weird, I know, and some of you may not understand. If not, that's fine - but believe me, this is about fostering independent thought, and allowing my clients to control their image online, not the money.
+
+If you're a designer that's still developing in static HTML or PHP, I ask that you weigh this argument carefully. If you're a client, demand that your designer develop on a platform where you can be in control.

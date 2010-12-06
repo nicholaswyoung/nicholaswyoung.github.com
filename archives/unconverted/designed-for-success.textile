@@ -1,0 +1,19 @@
+title: Designed for success
+author: Nicholas
+date: 2009-06-23 12:22:04 -0500
+layout: post
+type: post
+
+It's the 21st century. You don't have a presence on the web. You realize that you're behind. In the spirit of catching up, you get a cheap hosting package, and begin construction of your site - but is this really what you need to do?
+
+Now, more than ever, tools that were once expensive and difficult to operate are widely available to most any consumer. Adobe Photoshop has been released with minimal features, and dubbed "Photoshop elements," and layout tools like Apple's iWeb often come standard with all Macintosh machines. You've got the tools, and the knowledge to assemble your own site - to get out there, and push your brand to the top, right? No.
+
+Because of my business, I try to stay in tune with the design community, and it's evident that many clients, all across the industry, have decided to treat their designers as pixel pushers, and nothing more. While some designers may lack a creative side or the technical knowledge to create a superior site that performs well in multiple browsers and operating systems, the truth is that most of the "pixel pushers" are a dying breed. Five years ago, the web was different, and by the same standard, today's designers are often skilled at more than just design: most can at least launch a basic site, built on a system like Wordpress, Joomla!, or Drupal, and make sure that search engines can correctly index it - but, the new face of a web developer doesn't stop here.
+
+<img class="alignright size-medium wp-image-504" title="Do you trust this design?" src="http://nicholaswyoung.com/wp-content/uploads/2009/06/Screenshot-on-2009-06-21-at-12.38.01-PM-300x154.png" alt="Do you trust this design?" width="300" height="154" />
+
+Over the years, the public (or at least, the tech savvy members of the public) have developed a sense that I call "graphical trust." Essentially, it's a mark of authenticity - a point of decision, where they can either trust the site and it's content, or not. As I mentioned earlier, the widespread availability of web design tools has allowed many voices to be heard, but not all of them are spreading genuine messages. Sites for multi-level-marketing operations or various health fads often fall prey to this principal, even if the messages they're spreading are true. If you hire a quality web designer, they will know how to navigate safely through these waters.
+
+So, the next time you think about creating a web site, think it through, and decide exactly what you want to say. Your image will be better for it.
+
+<em>Screenshot from </em><a href="http://benefits-of-resveratrol.com" target="_blank"><em>benefits-of-resveratrol.com</em></a><em>.</em>

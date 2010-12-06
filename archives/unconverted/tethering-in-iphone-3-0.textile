@@ -1,0 +1,15 @@
+title: Tethering in iPhone 3.0
+author: Nicholas
+date: 2009-06-22 13:19:10 -0500
+layout: post
+type: post
+
+<img class="size-full wp-image-364 alignright" src="http://nicholaswyoung.com/wp-content/uploads/2009/06/p_480_320_E9C3410B-A250-42CC-BEB7-E9803679A0F4.jpeg" alt="" width="200" height="300" />
+
+<strong>Update &amp; Clarification: Jailbreaking your phone is not required.</strong>
+
+Think you have to wait until AT&amp;T officially supports tethering on your iPhone? If you said yes, I'd be asking you what year it is. We're in 2009 now, and the internet is a perfect source of information you aren't supposed to have.
+
+During WWDC, Phil Schiller confirmed that tethering was part of the feature pack for iPhone OS 3.0 - so we know the platform is capable - it's all about exploiting the proper weakness, right? Fortunately, CrunchGear has a <a href="http://www.crunchgear.com/2009/06/17/enable-tethering-in-iphone-30/" target="_blank">great how-to</a> up, or if you're just lazy and want a one-click solution, point your iPhone's browser <a href="http://help.benm.at/help.php" target="_blank">here</a>. It's that easy.
+
+After you've executed the hack, navigate to settings -&gt; general -&gt; network -&gt; internet tethering. Rock on.

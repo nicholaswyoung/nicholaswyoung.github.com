@@ -1,0 +1,11 @@
+title: Experiments with Snow Leopard
+author: Nicholas
+date: 2009-06-27 13:47:10 -0500
+layout: post
+type: post
+
+Roughly a week ago, I was lucky enough to get my hands on the 2009 WWDC build of Apple's next-generation operating system, Snow Leopard. Not expecting much, I installed it on my 2006 second-gen Macbook. Following the initial boot (which was terribly slow), I was pleasantly surprised. To say that it's an improvement over 10.5 is an understatement. Safari launches without bouncing, stacks on the dock have been improved (they're almost like small finder windows), and as minor as it may be for some, the aurora wallpaper has been updated. However, for all of my accolades, I must note the dark side too.
+
+On any given day, I could be bouncing between at least three languages - ruby, python, or php - and I need my interpreters to work correctly. Never once did I get a Ruby Gem to install, or my Aptana IDE to run correctly. MySQL installed correctly, but it almost always does. As to what caused these errors, I'm unsure, but will look into the problem deeper if time permits. However, just take my advice as a word of caution. I love developing on the latest and greatest platform too, but doing so could very well come with a significant productivity hit.
+
+It was fun, but after a week on Snow Leopard, I find myself needing to move onto a stable OS. So, 10.5, here I come.

@@ -1,0 +1,9 @@
+title: Book Review: Agile Web Development with Rails
+author: Nicholas
+date: 2009-08-15 03:46:53 -0500
+layout: post
+type: post
+
+Several months ago, when I reached out to the community asking for the best Ruby on Rails books, this was the first suggestion. Kudos to <a href="http://twitter.com/jaxn" target="_blank">@jaxn</a> for recommending what I believe to be the absolute best Rails development book written yet.
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/uJupVHi9nyY&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/uJupVHi9nyY&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object>

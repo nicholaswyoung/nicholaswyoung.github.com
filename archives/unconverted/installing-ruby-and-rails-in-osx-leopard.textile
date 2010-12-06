@@ -1,0 +1,75 @@
+title: Installing Ruby and Rails in OS X Leopard
+author: Nicholas
+date: 2009-08-16 14:39:07 -0500
+layout: post
+type: post
+
+Love it or hate it, OS X Leopard is a powerful and generally clean operating system. However, out of the box it has a few flaws that can prove to be frustrating for developers like myself.
+
+As if the Macintosh operating system isn't polarizing enough, I've recently found myself developing in Ruby on Rails quite a bit. It's a capable, but simple web framework that requires minimal configuration, and in my experience, can decrease development time by up to 50%. But, much like other web frameworks, having the latest distribution on your development machine is crucial - and this is where OS X falls surprisingly short. In this article, I'm going to show you how to install both Ruby, and the RubyGems package manager from source, so you can reap the benefits of being on the edge too. Note: the steps outlined here aren't for those who are afraid of the command line. (Translation: It might get hard, but if you're adventurous, or just think that installing software from source will make you a total programming badass, read on - but follow my steps carefully.)
+
+First, let's make sure that we've installed the latest version of Apple's <a href="http://developer.apple.com/Tools/" target="_blank">XCode development system</a>. It's not that we need the tools here, but instead, just the compilers so we can install from the source packages.
+
+After that's out of the way, we'll need to make a folder for our source downloads:
+<code>
+$: sudo -p mkdir /usr/local/src
+$: sudo chgrp admin /usr/local/src
+$: sudo chmod -R 775 /usr/local/src
+</code>
+
+Then, let's tell our operating system where to look for our files...
+<code>
+$: export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
+</code>
+
+...and then, navigate into that directory.
+<code>
+$: cd /usr/local/src
+</code>
+
+It's time to actually grab the sources! Browse over to the <a href="http://ruby-lang.org/en/downloads" target="_blank">Ruby language</a> website, and pull down the latest stable SVN snapshot:
+<code>
+$: curl -O ftp://ftp.ruby-lang.org/pub/ruby/stable-snapshot.tar.gz
+</code>
+
+...then begin the install. Get ready, you're going to see a lot of code flying past. Only the errors matter to you. (If you get an error on GCC, you either forgot to use sudo, or you didn't listen, and still need to install the developer tools.)
+<code>
+$: tar xzvf stable-snapshot.tar.gz
+$: cd ruby
+$: sudo ./configure --enable-shared --enable-pthread CFLAGS=D_XOPEN_SOURCE=1
+$: make
+$: sudo make install
+</code>
+
+Now, try this:
+<code>
+$: which ruby
+</code>
+You should see
+<code>/opt/local/bin/ruby
+</code>
+if everything worked correctly.
+
+Up next, let's install RubyGems, the amazing package manager. Just navigate over to <a href="http://rubyforge.org/frs/?group_id=126" target="_blank">RubyForge.org</a>, and pull down the latest release (at the time of this writing, the current version is 1.3.5). Once it's downloaded, you'll most likely find it in your Downloads folder, so let's move it into our source directory:
+<code>
+$: cp ~/Downloads/rubygems-1.3.5.tgz /usr/bin/src/rubygems-1.3.5.tgz
+</code>
+
+Now, we can untar, and compile it:
+<code>
+$: tar xzvf rubygems-1.3.5.tgz
+$: cd rubygems-1.3.5
+$: sudo /opt/local/bin/ruby setup.rb
+</code>
+
+You'll see a few lines of code whizz by, and before you know know it, RubyGems will be installed. Finally, it's Rails time:
+<code>
+$: sudo gem install rails
+</code>
+
+At this point, you're ready to go, but - if you, like me, prefer Mongrel to WEBrick - adding it in is easy:
+<code>
+$: sudo gem install mongrel
+</code>
+
+...and that's it. Congratulations: you're now rocking the hottest version of Ruby on Rails. Dev on.

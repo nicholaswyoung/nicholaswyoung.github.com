@@ -7,4 +7,8 @@ $(function () {
 			timeout: 11000
 		});
 	}
+	
+	if($('section.copy a').length > 0) {
+		$('section.copy a').attr('target', '_blank');
+	}
 });

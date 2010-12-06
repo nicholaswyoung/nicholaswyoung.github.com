@@ -4,7 +4,7 @@ title: Automate or Die
 author: Nicholas Young
 ---
 
-Whether you're flying solo, or working with a team, there's no doubt - writing software takes an immense amount of time and energy. Truth be told - it's an arduous - even boring task at times. Over the last year, I've studied how great developers work, what environments foster creativity, and the practices that, if followed, can allow anyone to become a true software craftsman.
+Whether you're flying solo, or working with a team, there's no doubt - writing software takes an immense amount of time and energy. Truth be told - it's an arduous - even boring task at times. Over the last year, I've studied how great developers work, what environments foster creativity, and the practices that, if followed, allow anyone to become a true software craftsman.
 
 If I said there was a single golden rule, I'd be lying. But, there is a single element that all great craftsmen possess - and it isn't the editor you use, or framework of choice. It's the ability to identify and automate the time-consuming processes in your workflow. So, whether it's setting up 1,000 servers - or creating a stable development environment - listen up, because here's five tools to increase your productivity.
 

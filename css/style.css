@@ -227,3 +227,10 @@ section.meta {
 	font: 13px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	margin-top: 15px;
 }
+p.social_icons img {
+	display: inline-block;
+	margin-right: 7px;
+}
+img a {
+	border: none;
+}

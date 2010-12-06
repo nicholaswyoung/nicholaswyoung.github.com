@@ -6,13 +6,11 @@
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>{{ page.title }} | Writings | Nicholas Young - digital artist, software consultant, event planner, and producer</title>
+	<title>Contact | Nicholas Young - digital artist, software consultant, event planner, and producer</title>
 	<meta name="description" content="The home of Chicago-based digital artist, software consultant, and producer Nicholas Young." />
 	<meta name="keywords" content="nicholas young, chicago web design, chicago design, chicago software consultant, chicago, audio production" />
 	<meta name="author" content="Nicholas Young">
-	<link rel="stylesheet" href="/css/style.css" />
-	<script type="text/javascript" src="/js/jquery.js"></script>
-	<script type="text/javascript" src="/js/site.js"></script>
+	<link rel="stylesheet" href="css/style.css" />
 	<script type="text/javascript" src="http://use.typekit.com/mqb1har.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
@@ -31,63 +29,15 @@
 		</section>
 		<section class="fine_line grid_12"></section>
 		<section class="area_title grid_12">
-			<h1> {{ page.title }}</h1>
+			<h1>Writings</h1>
 			<section class="meta">
-				Posted on {{ page.date | date_to_string }}, by {{ page.author }} - <a href="{{ post.url }}">Permalink</a>
+				
 			</section>
 		</section>
 		<section id="main" class="grid_12">
 			<section class="content grid_8 alpha">
 				<section class="copy">
-					{{ content }}
 				</section>
-			</section>
-			<section class="sidebar grid_4 omega">
-				<h2>Get Connected</h2>
-				<p class="social_icons">
-					<a href="/atom.xml"><img src="/images/rss_32.png"></a>
-					<a href="http://twitter.com/nicholaswyoung"><img src="/images/twitter_32.png"></a>
-					<a href="http://gowalla.com/users/nicholaswyoung"><img src="/images/gowalla_32.png"></a>
-					<a href="http://linkedin.com/in/nicholaswyoung"><img src="/images/linkedin_32.png"></a>
-					<a href="http://flickr.com/nicholaswyoung"><img src="/images/flickr_32.png"></a>
-					<a href="http://forrst.com/people/nicholaswyoung"><img src="/images/forrst_32.png">
-					<a href="skype:nicholaswyoung?call"><img src="/images/skype_32.png"></a>
-				</p>
-				<h2>Twitter, anyone?</h2>
-				<p>
-					<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-					<script>
-					new TWTR.Widget({
-					  version: 2,
-					  type: 'profile',
-					  rpp: 4,
-					  interval: 6000,
-					  width: 'auto',
-					  height: 300,
-					  theme: {
-					    shell: {
-					      background: '#dbdbdb',
-					      color: '#000000'
-					    },
-					    tweets: {
-					      background: '#ffffff',
-					      color: '#000000',
-					      links: '#000000'
-					    }
-					  },
-					  features: {
-					    scrollbar: false,
-					    loop: false,
-					    live: false,
-					    hashtags: true,
-					    timestamp: true,
-					    avatars: false,
-					    behavior: 'all'
-					  }
-					}).render().setUser('nicholaswyoung').start();
-					</script>
-				</p>
-			</section>
 		</section>
 		<section class="fine_line grid_12"></section>
 		<section id="footer" class="grid_12">

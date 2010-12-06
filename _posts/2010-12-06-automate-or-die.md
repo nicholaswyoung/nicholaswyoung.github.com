@@ -2,7 +2,7 @@
 layout: post
 title: Automate or Die
 author: Nicholas Young
-category: Resources
+category: resources
 ---
 
 Whether you're flying solo, or working with a team, there's no doubt - writing software takes an immense amount of time and energy. Truth be told - it's an arduous - even boring task at times. Over the last year, I've studied how great developers work, what environments foster creativity, and the practices that, if followed, allow anyone to become a true software craftsman.

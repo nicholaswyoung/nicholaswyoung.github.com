@@ -234,3 +234,14 @@ p.social_icons img {
 img a {
 	border: none;
 }
+ul.lightweight {
+	list-style-type: none;
+}
+ul.lightweight li {
+	padding-bottom: 10px;
+	bottom-border: #999 1px solid;
+}
+a#nextquote {
+	font: 13px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	float: right;
+}

@@ -11,4 +11,12 @@ $(function () {
 	if($('section.copy a').length > 0) {
 		$('section.copy a').attr('target', '_blank');
 	}
+	
+	if($('section#quotes').length > 0) {
+		$('section#quotes').cycle({
+			fx: 'fade',
+			timeout: 0,
+			next: '#nextquote'
+		});
+	}
 });

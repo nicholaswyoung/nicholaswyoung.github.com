@@ -61,6 +61,22 @@ body {
 			font-weight: 600;
 		}
 		
+		p.quote {
+			padding-bottom: 15px;
+			border-bottom: 1px white solid;
+			
+			&:last-child {
+				padding-bottom: none;
+				border-bottom: none;
+			}
+			
+			span.quote-citation {
+				.fsp(.90em);
+				display: block;
+				margin-top: 10px;
+			}
+		}
+		
 		ul#social {
 			list-style-type: none;
 			padding: 0;

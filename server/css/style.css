@@ -48,6 +48,21 @@ body {
 .container .main p.heading {
   font-weight: 600;
 }
+.container .main p.quote {
+  padding-bottom: 15px;
+  border-bottom: 1px white solid;
+}
+.container .main p.quote:last-child {
+  padding-bottom: none;
+  border-bottom: none;
+}
+.container .main p.quote span.quote-citation {
+  font-family: 'freight-sans-pro-1', 'freight-sans-pro-2';
+  font-size: 0.9em;
+  font-weight: 100;
+  display: block;
+  margin-top: 10px;
+}
 .container .main ul#social {
   list-style-type: none;
   padding: 0;

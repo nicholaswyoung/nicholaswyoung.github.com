@@ -1,0 +1,40 @@
+// Style helpers for Nicholas W Young.com
+
+.dimensions(@x, @y) {
+	width: @x;
+	height: @y;
+}
+
+.square(@dim) {
+	.dimensions(@dim, @dim);
+}
+
+.fsp(@size, @weight: 100) {
+	font-family: 'freight-sans-pro-1', 'freight-sans-pro-2';
+	font-size: @size;
+	font-weight: @weight;
+}
+
+.rotate(@amt) {
+	-webkit-transform:rotate(@amt);
+	-moz-transform:rotate(@amt);
+	-o-transform:rotate(@amt);
+	-ms-transform:rotate(@amt);
+	transform:rotate(@amt);
+}
+
+.shadow(@x: 0, @y: 0, @blur: 1px, @color: black) {
+	box-shadow: @arguments;
+	-webkit-box-shadow: @arguments;
+	-moz-box-shadow: @arguments;
+}
+
+.clear() {
+	&:after {
+		content: '.';
+		display: block;
+		height: 0;
+		clear: both;
+		visibility: hidden;
+	}
+}

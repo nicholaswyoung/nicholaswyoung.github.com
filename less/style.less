@@ -1,0 +1,128 @@
+/*
+	Styles for Original Machine.com
+*/
+
+@import "normalize.css";
+@import 'helpers';
+
+@background: url(../img/bg.png);
+
+.left() {
+	float: left;
+}
+
+.right() {
+	float: right;
+	.clear();
+}
+
+a {
+	color: inherit;
+}
+
+body {
+	border-top: 10px #333 solid;
+	background: @background;
+	margin: 0;
+}
+
+.container {
+	.dimensions(90%, auto);
+	margin: 20px auto 50px auto;
+	max-width: 1200px;
+	position: relative;
+	
+	.main {
+		.dimensions(41.666667%, auto);
+		.left();
+		
+		h1 {
+			.fsp(4.0em, 500);
+			margin: 0;
+		}
+		
+		h2 {
+			margin: 10px 0 0 0;
+			.fsp(1.3em);
+			border-bottom: 1px #999 solid;
+			padding-bottom: 20px;
+		}
+		
+		p {
+			.fsp(1em);
+			margin-bottom: 15px;
+		}
+	}
+	
+	.sub {
+		.dimensions(56.666667%, auto);
+		.right();
+		
+		ul#images {
+			list-style-type: none;
+			padding: 0;
+			
+			li {
+				position: relative;
+				background: white;
+				max-width: 500px;
+				margin: 0 auto;
+				padding: 2%;
+				.rotate(4deg);
+				.shadow(0, 0, 70px, rgba(0, 0, 0, .6));
+				
+				&:nth-child(2n) {
+					.rotate(-4deg);
+				}
+				
+				img {
+					max-width: 100%;
+					.shadow(0, 0, 30px, rgba(0, 0, 0, .5));
+				}
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 1080px) {
+	.container {
+		.main {
+			h1 {
+				font-size: 3em;
+			}
+			
+			h2 {
+				font-size: 1em;
+			}
+		}
+		
+		.sub {
+			ul li {
+				.shadow(0, 0, 10px, rgba(0, 0, 0, .5));
+				
+				img {
+					.shadow(0, 0, 10px, rgba(0, 0, 0, .2));
+				}
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 768px) {
+	body {
+		border-top: 5px #333 solid;
+	}
+	.container {
+		.main {
+			display: block;
+			.dimensions(100%, auto);
+			float: none;
+		}
+		.sub {
+			margin-top: 50px;
+			display: block;
+			.dimensions(100%, auto);
+			float: none;
+		}
+	}
+}

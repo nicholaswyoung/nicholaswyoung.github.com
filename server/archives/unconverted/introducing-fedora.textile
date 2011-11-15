@@ -1,0 +1,12 @@
+title: Introducing... Fedora!
+date: 2010-01-13 18:57:00 -0600
+author: Nicholas
+layout: page
+
+Be honest. Has blogging become stale for you? I know that it certainly has for me. Here's the routine: I open my browser, navigate to my site, and log in. It is now that I'm finally ready to write, but there is one problem. I've lost my inspiration.
+
+<img src="http://c0547802.cdn.cloudfiles.rackspacecloud.com/fedora.png" class="floatRight">Over the course of several years, various blogging platforms have emerged; each reigned supreme for a short while and was somehow superior to the it's predecessor - generally in the technology it employed. But, do we, as authors, really need all of that functionality? Let me put it this way - were the works of literary greats ever about their tools? In a word - no.
+
+It is in this spirit that I'm proud to announce "Fedora":http://nicholaswyoung.com/software/fedora, a simple blogging engine with style. Fedora allows you to write when the inspiration strikes, publish your piece when it's ready, and best of all, never deal with a WYSIWYG editor. It's your blog, with all of the extraneous features removed.
+
+I encourage you to check out the code and documentation on "GitHub":http://github.com/nicholaswyoung/fedora, and see if Fedora might be a fit for your publishing needs.

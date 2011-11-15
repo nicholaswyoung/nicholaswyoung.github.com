@@ -1,0 +1,17 @@
+title: "Customer Service Spotlight: Mad Mimi"
+author: Nicholas
+date: 2009-05-22 14:00:38 -0500
+layout: post
+type: post
+
+For those of you who think e-mail is so 1999, listen up. The folks over at Mad Mimi, a Brooklyn-based e-mail marketing firm, are tearing it up. Call me old fashioned, but I remember hand-coding HTML templates for every company mailing not less than two years ago. That's why, when my firm had a need for mass e-mail, I was dreading each line of code I would need to write. Don't get me wrong, coding is fun and engaging - but not when you're doing each template by hand - and you have other, more important things on the agenda.
+
+<img class="alignright size-medium wp-image-193" style="margin-left: 10px; margin-right: 10px;" title="Look at this cheery frontpage!" src="http://nicholaswyoung.com/wp-content/uploads/2009/05/picture-6-300x207.png" alt="Look at this cheery frontpage!" width="300" height="207" />
+
+While most e-mail providers will tout their mass mailing speed, WYSIWYG editing capabilities, or pricing structure, <a href="http://madmimi.com" target="_blank">Mad Mimi</a> focuses on the overall ease of use, and kick-ass customer service. 
+
+A few weeks ago, I signed up for their free plan. If there's nothing to lose, anybody can try it, right? The only downside is - people might not stay on as a paying customer, but that seems to be a risk they're willing to take.
+
+After a day of tinkering with their editor, I had exhausted my resources. The template I had created wasn't quite to my liking - and I couldn't figure out how to edit it - so I fired off a tweet to the customer service crew. Several minutes later (yes, minutes), I received an response from Gary, who asked me to send in my background image, and he would take care of it. The conversation that ensued involved several in-depth software changes on his end. Though I'm sure the process was difficult, he pressed on, and in the process, resolved not only the layout issues - but the many other questions I had as well. At this stage, I was already amazed. Later on, I came to learn that Gary was actually the founding partner of <a href="http://madmimi.com" target="_blank">Mad Mimi</a>, not just a customer service rep as I had assumed. 
+
+Fast forward several weeks, and I'm now a happy, paying customer. In fact, I wouldn't send my valuable e-mails through anyone else. Their emphasis is in the right place - on the customer. There's so much more that I could say, but for now, I'll leave it at this: great job, guys.

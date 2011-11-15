@@ -1,0 +1,13 @@
+title: Apple Quick Tip: Operate your laptop with the lid closed!
+author: Nicholas
+date: 2009-09-01 03:05:57 -0500
+layout: post
+type: post
+
+Roughly four years ago, I purchased my first laptop: a second generation Apple Macbook. It's served me well, and survived being opened up all day, every day, with at least two battery charges per 24 hour period. However, this month, it is being retired as my principal laptop, and was replaced by a 15" Macbook Pro. Being the frugal type, I can't just let the machine either be dismantled, or sit around to collect dust, so I've decided to reappoint it... as a desktop.
+
+While several successful modders have demonstrated that moving the innards of your Macbook into a desktop type case is actually doable, I preferred to keep the machine together. That way, if for some unforeseen reason, I needed it as a laptop again, I could simply flip it open and go to work. So, for my conversion, I turned to Google instead, and found a very useful hack.
+
+Digging deep into the threads on several mac-related forums reveals that your laptop will run with the lid closed - all you have to do is plug a keyboard, mouse, and monitor in before shutting the lid. Once the laptop is asleep, simply wiggle the mouse, and the machine will wake up. From that point on, you have what is essentially an expensive desktop. Nice, huh?
+
+Let me know if you have any other Mac hacks. I'd love to post them here!

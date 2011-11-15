@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Writings | Nicholas Young - digital artist, software consultant, event planner, and producer</title>
+ <link href="http://nicholaswyoung.com/atom.xml" rel="self"/>
+ <link href="http://nicholaswyoung.com/"/>
+ <updated>2011-11-15T08:08:35-06:00</updated>
+ <id>http://nicholaswyoung.com.com/</id>
+ <author>
+   <name>Nicholas Young</name>
+   <email>nicholas@nicholaswyoung.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Behind the Wheel: Tips on Working for Yourself</title>
+   <link href="http://nicholaswyoung.com/video/behind-the-wheel-tips-on-working-for-yourself"/>
+   <updated>2011-01-09T00:00:00-06:00</updated>
+   <id>http://nicholaswyoung.com/video/behind-the-wheel-tips-on-working-for-yourself</id>
+   <content type="html">&lt;object height='349' width='100%'&gt;&lt;param name='allowfullscreen' value='true' /&gt;&lt;param name='movie' value='http://www.facebook.com/v/496223367627' /&gt;&lt;embed allowfullscreen='true' height='349' src='http://www.facebook.com/v/496223367627' type='application/x-shockwave-flash' width='100%' /&gt;&lt;/object&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;During the last month, I&amp;#8217;ve chatted with many designers and developers whose main goal for 2011 was to be their own boss. In this video, I share several tips that have helped me over the last six years.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Automate or Die</title>
+   <link href="http://nicholaswyoung.com/resources/automate-or-die"/>
+   <updated>2010-12-06T00:00:00-06:00</updated>
+   <id>http://nicholaswyoung.com/resources/automate-or-die</id>
+   <content type="html">&lt;p&gt;Whether you&amp;#8217;re flying solo, or working with a team, there&amp;#8217;s no doubt - writing software takes an immense amount of time and energy. Truth be told - it&amp;#8217;s an arduous - even boring task at times. Over the last year, I&amp;#8217;ve studied how great developers work, what environments foster creativity, and the practices that, if followed, allow anyone to become a true software craftsman.&lt;/p&gt;
+
+&lt;p&gt;If I said there was a single golden rule, I&amp;#8217;d be lying. But, there is a single element that all great craftsmen possess - and it isn&amp;#8217;t the editor you use, or framework of choice. It&amp;#8217;s the ability to identify and automate the time-consuming processes in your workflow. So, whether it&amp;#8217;s setting up 1,000 servers - or creating a stable development environment - listen up, because here&amp;#8217;s five tools to increase your productivity.&lt;/p&gt;
+
+&lt;h2 id='terminitor__by_arthur_chiu'&gt;&lt;a href='https://github.com/achiu/terminitor/'&gt;Terminitor - by Arthur Chiu&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Terminitor is a small, but mighty automation framework for OS-X. It&amp;#8217;s been ported to other operating systems, but this is the original. On a recent project, every time I started to code, I had to open my MongoDB server, Resque worker, and Postfix mail agent - and, as you can imagine, this was a hassle.&lt;/p&gt;
+
+&lt;p&gt;Enter Terminitor. Now, each project has a Termfile - an elegant, Ruby-based configuration file. Clone the repository, and you&amp;#8217;re one keystroke away from development bliss.&lt;/p&gt;
+
+&lt;h2 id='screwcap__by_grant_ammons'&gt;&lt;a href='http://gammons.github.com/screwcap/'&gt;Screwcap - by Grant Ammons&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I think we all agree: Capistrano is a dinosaur. Don&amp;#8217;t get me wrong - it&amp;#8217;s the swiss-army knife of deployment frameworks - with every bell, whistle, and toothpick you could care for. But sometimes, you need to specialize.&lt;/p&gt;
+
+&lt;p&gt;Screwcap is a lightweight wrapper around Net::SSH that makes it easier to perform actions on remote servers. Whether it&amp;#8217;s restarting your Passenger instance, loading new configuration files, or cleaning out old logs, Screwcap has you covered.&lt;/p&gt;
+
+&lt;h2 id='infinity_test__by_thomas_dstefano'&gt;&lt;a href='https://github.com/tomas-stefano/infinity_test/'&gt;Infinity Test - by Thomas D&amp;#8217;Stefano&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id='phusion_passenger_3'&gt;&lt;a href='http://www.modrails.com/'&gt;Phusion Passenger 3&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;It&amp;#8217;s a typical TDD cycle: test, write, refactor - and eventually - deploy. However, this time, your code doesn&amp;#8217;t work so well in production. Okay, so it doesn&amp;#8217;t work at all&amp;#8230; instead, it explodes.&lt;/p&gt;
+
+&lt;p&gt;We&amp;#8217;ve all been there. To developers, this is the stuff nightmares are made of. Fortunately, this can be prevented with two simple tools.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#8217;re using Wayne Seguin&amp;#8217;s RVM (and if not, why aren&amp;#8217;t you?) Infinity Test allows you to test against multiple versions of Ruby, ensuring that your application runs properly across any system you might happen to deploy on.&lt;/p&gt;
+
+&lt;p&gt;Combine this with the second tool, Phusion Passenger Lite (available in Passenger 3+), and you&amp;#8217;ve almost perfectly cloned your production environment. So goodbye, rails server - hello Nginx!&lt;/p&gt;
+
+&lt;h2 id='fuubar__by_jeff_kreeftmeijer'&gt;&lt;a href='https://github.com/jeffkreeftmeijer/fuubar/'&gt;Fuubar - by Jeff Kreeftmeijer&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;This may step on some toes, but I&amp;#8217;ll say it anyway. Your test suite exists for one reason: to provide feedback. When used properly, it can be used to determine the quality of your codebase, and ensure smooth, confident deployments. However, if the feedback loop takes 20 minutes to complete, most everyone agrees: your tests are useless.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#8217;re using RSpec, allow me to present Fuubar. This is itch-driven-development at it&amp;#8217;s best: Jeff had an itch, and he scratched it. Install the gem, and a few moments later, you&amp;#8217;ll be proudly watching the green progress bar scroll across - as your tests pass. (Unless, of course, they fail&amp;#8230; and only you know how to describe that.)&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Connecting the Dots</title>
+   <link href="http://nicholaswyoung.com/connecting-the-dots"/>
+   <updated>2009-03-23T00:00:00-05:00</updated>
+   <id>http://nicholaswyoung.com/connecting-the-dots</id>
+   <content type="html">&lt;p&gt;For several months now, I&amp;#8217;ve pondered where, and how to begin the reassembly of our country&amp;#8217;s economic foundation. The insiders knew that the system would one day topple, but did nothing to slow, or stop it. Though as a nation we were blinded to the truth, there were however, some who saw the harsh reality - but either weren&amp;#8217;t in a position of power, or simply didn&amp;#8217;t have all the answers. At this point, however, pointing fingers at anybody isn&amp;#8217;t going to help. Instead, we need to carefully analyze what went wrong, and try to lay precautions into the foundation as we rebuild. In many ways, dealing with the economy is much like a children&amp;#8217;s puzzle, hence the title of this post. In the text ahead, I&amp;#8217;m going to lay out a theory I&amp;#8217;ve had for several months. I&amp;#8217;m anything but an economist, so it&amp;#8217;s open for discussion and debate. Trust me, your thoughts are welcome.&lt;/p&gt;
+&lt;strong&gt;So, what's the problem?&lt;/strong&gt;
+&lt;p&gt;Let me be real. The problem is big business. Over the course of the years, these corporate behemoths have grown larger and fatter, until they control so much of the capital in our economic system. The fact that many of them deal in financial securities doesn&amp;#8217;t help matters at all. You see, whoever controls the flow of capital, controls the economy. That&amp;#8217;s capitalism, pure and simple. You do well, you rise to the top. But, as the system dictates, when you mismanage, or otherwise fail, you fall. When you fall, your collapse allows opportunistic entrepreneurs to fill your market.  The problem today is, these giants aren&amp;#8217;t doing well at all, yet they don&amp;#8217;t fall. The government shouldn&amp;#8217;t prop them up, if we are to ever recover.&lt;/p&gt;
+&lt;strong&gt;But, that's so evil!&lt;/strong&gt;
+&lt;p&gt;Well, maybe it is. On the other hand, you had better start counting, because there&amp;#8217;s far more evil things at work around you right now. See, my company is doing just fine. I&amp;#8217;m small enough to not really notice when the titans rattle their swords, clash, and die. Probably part of the key to my success is living in a city of creative individuals, and having access to the internet. My clientele is everyone, everywhere - and, unlike the big names, I&amp;#8217;m approachable. Find me on twitter, and we&amp;#8217;ll have a one-on-one conversation. I&amp;#8217;ll make time for that.&lt;/p&gt;
+&lt;strong&gt;So, what's the solution?&lt;/strong&gt;
+&lt;p&gt;Ok, so I lied. There&amp;#8217;s not just a solution. You can&amp;#8217;t fix this overnight, and it takes more than 15 minutes to bake. However, if we can change our mindset, going forward, we&amp;#8217;re going to be safer than ever.&lt;/p&gt;
+
+&lt;p&gt;With the government propping up the aforementioned unsuccessful institutions, it&amp;#8217;s obvious that our economic system cannot function properly. The clog, ironically, is comprised entirely of taxpayer greenbacks. With the clogged pipes as they are, the only possible fix is to do something that we, those in the small business sector have mastered, something that most companies have long since forgotten: service. Think of this as a mild laxative for constipated capitalism.&lt;/p&gt;
+
+&lt;p&gt;For now, all we can do is connect with other independent doers, form networks to service our clients, and focus on customer care, appreciation, and timely task completion. At it&amp;#8217;s core, business has always been about relationships, and that&amp;#8217;s not just a hundred years ago; It&amp;#8217;s true today, more than ever.&lt;/p&gt;
+
+&lt;p&gt;So, whether you&amp;#8217;re running solo or working in a co-op, if you&amp;#8217;re adhering to the suggestions above, know that you&amp;#8217;re part of the solution. The more that small businesses If you&amp;#8217;re not running your own show, I encourage you to give it a try. Now is the time to break away, and follow your dream&amp;#8230; and hey, if your dream happens to be part of the solution, then that&amp;#8217;s even better.&lt;/p&gt;
+&lt;em&gt;Linkage for people who inspired this post: &lt;a href='http://mitchcanter.com' target='_blank'&gt;Mitch Canter&lt;/a&gt;, &lt;a href='http://virtualcfo.typepad.com/' target='_blank'&gt;Scot Justice&lt;/a&gt;&lt;/em&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>The Basics</title>
+   <link href="http://nicholaswyoung.com/the-basics"/>
+   <updated>2009-01-13T00:00:00-06:00</updated>
+   <id>http://nicholaswyoung.com/the-basics</id>
+   <content type="html">&lt;p&gt;Humans socialize. Humans communicate. Humans share. Three constants in all of life, no matter who you are, where you are, what you believe, or what goals you have. They&amp;#8217;re instinctual. These three principals are what drive today&amp;#8217;s social networks, but have you ever thought that these basic tenants go back much farther than the foundation of the internet? &lt;/p&gt;
+
+&lt;p&gt;While many businesses and marketers are left admiring the shininess of social media, I can&amp;#8217;t help but notice that the users are perfect example of socialization, communication, and sharing. They&amp;#8217;ve created a white, fresh frontier, untouched by the greasy hands of marketers. When you&amp;#8217;re in a company with a fading bottom line, extra vigilance is required when it comes to marketing your products. It&amp;#8217;s very hard to look at ever decreasing profit margins and lunge for the magic of social networking, as if applying it will solve all of your problems. I, along with many other informed individuals, will tell you repeatedly that just because your brand is connected, doesn&amp;#8217;t mean it will be successful. Connecting means nothing, unless you&amp;#8217;ve got a community, a concept that predates the internet by many years - where we find it at the beginning of society itself.&lt;/p&gt;
+
+&lt;p&gt;Regardless of what events surrounded the creation of human life, communal gatherings have been a staple for all time. At these gatherings, where you&amp;#8217;re from is of little importance, unless of course, the other individuals travel though your area, and thereby have a vested interest. No, to others, it&amp;#8217;s what you bring to the table - who you are, what you do, and how it can benefit them. When engaging in social networking, many companies, often to their detriment, fail to take this approach. Instead of taking interest in their connections, they act as if all people want to hear is company news, opinions, and press releases; let me assure you, that is not the case. Instead, many brands would do well to take a selfish position, and see what knowledge they can gain from their customer base. If your brand has loyal customers, they will likely jump at a chance to submit a new idea, critique a web interface, or provide simple feedback. To get this, all you have to do is ask.&lt;/p&gt;
+
+&lt;p&gt;So, keep this in mind as you explore the worlds of social media. Remember that the rules governing them aren&amp;#8217;t new at all, and just because you have a worldwide audience, doesn&amp;#8217;t mean that they only care about you.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>One for the Professionals</title>
+   <link href="http://nicholaswyoung.com/one-for-the-professionals"/>
+   <updated>2008-12-29T00:00:00-06:00</updated>
+   <id>http://nicholaswyoung.com/one-for-the-professionals</id>
+   <content type="html">&lt;h2 id='the_backstory'&gt;The Backstory&lt;/h2&gt;
+
+&lt;p&gt;Let me begin by noting that I&amp;#8217;m the king of the fools. That&amp;#8217;s right - this post will probably be sprinkled with hypocrisy, so I&amp;#8217;m warning you now. During the formative days of the internet, it was difficult to connect with others, mainly due to the financial, and technological barriers. If you weren&amp;#8217;t tech-savvy, good luck on getting connected. Growing up, much of the United States&amp;#8217; population had already experienced the power of the internet - but I still consider myself a child of that generation. In those days, my technological prowess was limited, and my hometown was small and often overlooked, until a local telephone company decided to bring the internet to us. My interest in all things digital immediately piqued, and I began what would become a lifelong pursuit. Beginning with handwritten HTML (running on a networked Windows box), and progressing to knowledge in almost 10 languages, you could say I&amp;#8217;ve been around the block, at least once. But, please keep in mind, this post is anything - except about me.&lt;/p&gt;
+
+&lt;h2 id='the_problem'&gt;The Problem&lt;/h2&gt;
+
+&lt;p&gt;Over the past few years, products and services like Blogger, Twitter, Wordpress, and Friendfeed have matured, and reached incredible adoption rates, even among older demographics. I guess the need to connect brings out the early-adopter in all of us. However, as these services grew, many marketing professionals sought to reach the communities created by social networking sites. This desire birthed a generation of internet entrepreneurs - who possessed neither the will, information, or skill to correctly pursue their career path. Visit any social networking site, and look around. In the span of a few minutes, you&amp;#8217;re likely to uncover five or more. You&amp;#8217;ll know them by: excessive twittering (typically about their long flight to Silicon Valley, or another prestigious location), pleas for sponsorship (which they wouldn&amp;#8217;t need if they weren&amp;#8217;t in the air most of the time), their huge number of followers, a blog, almost always bearing a marketing-related brand of some sort. Remember, if we subscribe to what they say, we&amp;#8217;ve completely ignored any pluses of Twitter, or any other communication medium. If I choose to connect with you, it&amp;#8217;s because I care about your opinions. You may not like me, and that&amp;#8217;s a risk I take willingly. I also allow open debate on any topic, and that includes this one. &lt;/p&gt;
+
+&lt;h2 id='the_solution'&gt;The Solution&lt;/h2&gt;
+
+&lt;p&gt;The previous paragraph was harsh, and I know it. I&amp;#8217;ll probably lose followers over what I said. But, if you&amp;#8217;re angry now, that&amp;#8217;s good. If we communicate regularly, you probably agree with me, and also know that when a problem is identified, I almost always post a solution as well. This is no exception.&lt;/p&gt;
+
+&lt;p&gt;Living in Nashville, I can&amp;#8217;t help but notice the ruins of an industry gone awry. Greedy hands built, and destroyed the business that sustained our city&amp;#8217;s economy for years. Many residents still work daily at their desk jobs, dreaming of a career in music, complete with the limo, and a worldwide tour slot - something that they&amp;#8217;ll never have. Smart musicians are choosing to market themselves, and learn whatever skills are necessary, or work with one-stop marketing and design firms - a concept that many social media professionals need to learn about.&lt;/p&gt;
+
+&lt;p&gt;Just like the .com bubble, the hype that surrounds social media gods will burst in 2009. Watch it. When it bursts, those who are willing to learn and flex will profit, while most, with their limited skill sets, won&amp;#8217;t be able to compete. My advice to you is learn everything. If you&amp;#8217;re running a default template for your website, redesign it. If you&amp;#8217;re blogging and twittering, go speak in public (with your audible voice.)  2009 is the year for maturity. Embrace it. The only way to learn is to do, and yeah - you&amp;#8217;ll never be a professional. I&amp;#8217;m not one, and you won&amp;#8217;t be either. There&amp;#8217;s too much to learn. Get over it.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

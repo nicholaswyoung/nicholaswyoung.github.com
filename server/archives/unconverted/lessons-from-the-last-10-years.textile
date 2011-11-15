@@ -1,0 +1,29 @@
+title: Lessons from the last 10 years
+date: 2010-01-16 8:15:00 -0600
+author: Nicholas
+layout: page
+type: post
+
+The beginning of 2010 marks my tenth year as a professional software developer. I've never been this confident in my skill set, and while I certainly don't know everything, there are a few tips that I've picked up, and would like to share with anyone willing to listen - especially those who are embarking on a career of their own.
+
+January, 2000 was an interesting month. It was when I finally started branching out beyond the HTML and rudimentary "PHP":http://en.wikipedia.org/wiki/PHP that I had used for several years. I wanted to stretch, to push the boundaries, and hopefully, learn a bit more about software craftsmanship. However, due to life circumstances beyond my control, many of the things I wanted to badly at that time were not to be. I would continue to be an average developer, until mid-2007.
+
+In August of 2007, I moved from my hometown area, to my current place of residence - Nashville, Tennessee, and with this move, came a few great chances raise the bar on myself. I learned "Python":http://python.org (purely from the on-site documentation), and was finally enjoying my job again. Since then, I've been on a fast track to improve my knowledge of various languages, but even more importantly, to understand why I create software in the first place. During that time, there are many things I wished people would have shared. This is a compilation of answers to the questions I asked myself:
+
+h3. 1. Don't be afraid to spend time and money on education.
+
+While in your early years, it's hard to justify dumping $50, or $100 bucks on books, no matter how cool the information inside them may be. I understand this, but still think that if the skills are worth learning, sometimes it pays to have the right tools. Over the last several years, I've read a few books by "The Pragmatic Programmers":http://pragprog.com, and every one of them has been well worth the cost. I suggest that you save up finances, and purchase the book that you think will help most.
+
+h3. 2. Seek out mentors that will gently point you in the right direction.
+
+This one is often difficult. Every developer may have their own method for a specific task, and their approach is almost always valid, but smart ones will understand that their practices may not exactly align with where you want to go. Find a mentor that you can connect with. One that will tell you when your code isn't quite spot-on, but still be hands-off enough so you can forge a path that's truly your own. Meet weekly for coffee with someone who is not only a developer, but a communicator - it will probably do you both good.
+
+h3. 3. Run your career like a company.
+
+Businesses are never started with failure in mind. Instead, every move the company makes is _on-purpose_. Run your career like you mean it. This means (a) hunting down those who have similar skill sets, learning from them and (b) sharing what you know, even though you might not be an expert. Technology is one area where you can't keep up with all of the news yourself - and your friends are generally willing to share - so why not benefit from their research?
+
+h3. 4. Break things, and watch how they crumble.
+
+You may not realize it, but destroying things is incredibly important to the career of a software craftsman. Okay, so it's not the destruction itself, but rather the measurement of the destruction that is valuable. Before going all-in on an idea, I often write a 50-100 line test that, if it's successful, will help me expound in other areas of the project. I create a few core elements, and if they run, I'm good to go. Generally, these tests don't go so well, and I end up tweaking them a bit until they work properly. This cycle is crucial, if you're going to be a top-notch developer.
+
+Live by these principles, create your own when needed, and you'll begin to see yourself changing for the better. You'll learn that it's less about what you know, than where to find the information in question.

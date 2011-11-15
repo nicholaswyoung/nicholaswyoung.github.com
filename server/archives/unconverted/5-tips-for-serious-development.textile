@@ -1,0 +1,24 @@
+title: 5 Tips for Serious Development
+author: Nicholas
+date: 2009-07-27 16:00:06 -0500
+layout: post
+type: post
+
+I'm a one man show that performs with multiple languages. Exploring the depths of PHP, Ruby, and Python is enough to keep your brain hard at work for weeks - but if you're a freelancer, there's more to your job than just writing code - you've got to balance all of your business activities. Over the past year, I've learned several tips that allow me to work smarter, and I wanted to share them with you.
+
+<strong>Virtualize.</strong>
+That's right. I keep a hard drive with nothing but <a href="http://www.vmware.com/" target="_blank">VMWare</a> images of my favorite server platforms. Each image has a specific purpose: one might have <a href="http://rubyonrails.org/" target="_blank">Rails</a>, while another is just a tricked-out Apache install. The purpose? If I blow up my virtual testing environment, the base operating system is still intact.
+
+<strong>Learn to love SQLite.</strong>
+<a href="http://www.sqlite.org/" target="_blank"> SQLite</a> is a killer database platform if you learn how to use it. Many web development frameworks have support for it baked in, and even if yours doesn't, installing the connector isn't terribly hard. Honestly, I've found SQLite to be a huge help, especially while prototyping. You mean I don't have to set up a database server? Sweet - that's one less thing on my list.
+
+<strong>Rock a notebook.</strong>
+Even with your smartphone and Google docs, it's useful to have an old-school notebook around. Instead of rattling off convoluted technical jargon to a client, I can whip out my <a href="http://www.moleskine.com/" target="_blank">Moleskine</a> and show them what it's all about. Instantly, I become more than a geek in their mind, and things click when they see that pen on the paper.
+
+<strong>Have a project dashboard.</strong>
+Even though I just finished extolling the virtues of notebook-toting, it's still good to have a central area for everything. Packages like <a href="http://redmine.org" target="_blank">Redmine</a>, an open-source Ruby on <a href="http://rubyonrails.org/" target="_blank">Rails</a> project management system will install easily on almost any webhost, and enable simple, fast collaboration between you and the client. What's the easiest way to keep a client happy? Give them details.
+
+<strong>Keep a running list of your favorite plugins.</strong>
+For instance, <a href="http://github.com/binarylogic/authlogic/tree/master" target="_blank">Authlogic</a> is great for building a quick, but extendable authentication framework in <a href="http://rubyonrails.org/" target="_blank">Rails</a>, <a href="http://simplepie.org/" target="_blank">Simplepie</a> is a first-class RSS parser for PHP, and <a href="http://malsup.com/jquery/form/" target="_blank">jQuery's Form Plugin</a> makes AJAX submissions a breeze. Depending on the type of project, I keep a folder of relevant plugins that I use with every installation.
+
+Maybe these tips will help you out. Feel free to share what makes your life as a developer easier!

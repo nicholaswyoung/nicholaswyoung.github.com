@@ -1,0 +1,15 @@
+title: Mailplane: GMail on your desktop
+author: Nicholas
+date: 2009-06-24 12:32:30 -0500
+layout: post
+type: post
+
+<a href="http://nicholaswyoung.com/wp-content/uploads/2009/06/Mailplane.png"><img class="alignnone size-full wp-image-489" title="Mailplane" src="http://nicholaswyoung.com/wp-content/uploads/2009/06/Mailplane.png" alt="Mailplane" width="443" height="137" /></a>Roughly every two months, my opinion may change. This could cause me to contradict something that I've said in the past, or it may simply reaffirm what I had thought initially. Today, we've encountered the former, so get ready: here comes my pitch in favor of web-based email.
+
+Several years ago when Google released GMail, I knew it would be a game changing e-mail platform, I just didn't know how far it could go in a world that was currently dominated by Hotmail and Yahoo!. Following the release, Google continued to improve the interface, and added features that were previously only accessible in desktop applications. Then, I was committed to using webmail, simply because it allowed me to access my conversations on multiple machines, but later, I found that when running a business, offline retrieval was a must. With that decided, bordering on two years  ago, I tossed GMail's web interface out the window, in favor of Apple's Mail.app: IMAP made syncing messages a breeze, and I had everything with me when I was on the go. Even after I purchased an iPhone 3G in November of '08 - this was still my preferred method for keeping up with the conversation.
+
+With the release of iPhone OS 3.0, <a href="http://www.crunchgear.com/2009/06/17/enable-tethering-in-iphone-30/" target="_blank">I now have internet almost everywhere</a>. Solid, fast, internet. This has caused me to rethink my two-gigabyte-per-mailbox strategy for managing messages in Mail.app, and this morning, I went on the hunt for a better way to manage e-mail. What I found was Mailplane, a small, light app for OS-X that allows you to connect to GMail's web interface through a native application on your Mac.
+
+Though you're still connecting to the web and displaying a page (it's just framed by the app), I've found Mailplane to be incredibly snappy. It supports all of GMail's filing features, and even adds a few of it's own, the most prominent being support for multiple accounts. Switching between mailboxes is easy: just point, and double click. In a nutshell, Mailplane is a simple program that allows you to leverage Google's storage capacity, while maintaining control of your e-mail.
+
+Mailplane sells for $24.95, which is a little pricey for me, considering that Google could pull the plug on GMail, and my investment would be useless. (Maybe there's an open-source application that has similar functionality?) However, you can give it a test run for 30 days, by visiting <a href="http://mailplaneapp.com" target="_blank">MailplaneApp.com</a>. If you try it, let me know your thoughts. After all, this space is all about the conversation.

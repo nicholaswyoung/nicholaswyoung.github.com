@@ -1,0 +1,33 @@
+title: Tools of the Trade - Web Design &amp; Development
+author: Nicholas
+date: 2009-05-23 14:10:00 -0500
+layout: post
+type: post
+
+Every tradesman has his favorite tools. Throughout the years, I've worked as a web designer, marketing coordinator, media producer, and as a technician in several unique fields. Though I've never subscribed to a specific method for getting things done, I've found that if you don't have the right tools, it's hard to make progress.
+
+In part one of this four part series, we'll explore my years as a web designer, and discuss several of the tools I've found to be useful. Odds are, if you're hitting a wall - your tools are outdated. However, many web professionals are burned out when they return home, at times, refusing to get back online, and update their toolbox.
+
+Being somewhat of a Unix purist, I only use Mac or Linux based machines in both my home and office. That being said, this list of programs was combined with those two operating systems in mind. Sorry, Microsoft.
+
+<strong>1. <a href="http://macrabbit.com/espresso/" target="_blank">Espresso</a> - <em>Design, edit, &amp; publish all in one place</em></strong>
+<a href="http://macromates.com/" target="_blank"> Textmate</a> used to hold this spot, and while many programmers may take offense to my stab at their favorite editor, Espresso has taken precedent in my web design workflow. (Textmate is still king for Python scripting, and the like.) Maybe it's the local preview, the polished tab interface, or the ability to add code recognition for just about any language. Honestly, I haven't decided what I like best yet.
+
+<em><strong>1a. <a href="http://redcareditor.com/" target="_blank">RedCar</a> - Build your own editor (BYOE)</strong></em>
+Some call Redcar "<a href="http://macromates.com/" target="_blank">Textmate</a> for linux," and when you open it for the first time, you'll see why. This excellent editor incorporates many of Espresso's features, though it lacks local preview functionality. Really, it's more of a hacker's editor (it still requires building from source, unless you have a very nice repository), but if you need a robust editor with slick navigation, give it a try.
+
+<strong>2 <a href="http://adiumx.com" target="_blank">Adium</a> - </strong><em><strong>Open source messaging client</strong></em>
+Whether your clients or coworkers are across the country, or in their office next door, efficient communication is key. As deadlines tighten, instant messaging can become a valuable asset. I recommend Adium for two reasons: it connects to every known chat platform, and is open source. That's right, more developers = less deadly bugs.
+
+<em><strong>2a. <a href="http://pidgin.im" target="_blank">Pidgin</a> - Chat from anywhere</strong></em>
+Some people don't like OS X. For those who still need messaging, but hate paying the Apple Tax, Pidgin is amazing. (It actually does run on Windows, surprise!) Now, connecting to all of your favorite chat networks is easy, and it's cross platform to boot!
+
+<strong>3. <a href="http://960.gs" target="_blank">960.gs</a> - <em>Hands down, the best CSS framework yet</em></strong>
+Code and communication are only two parts of the design process. In today's competitive market, design is a major player as well. For years, I despised the use of design frameworks. Something about them was unoriginal, but I couldn't place my finger on exactly what was wrong beyond that. After I was introduced to the 960.gs framework, I quickly learned that my assumptions were wrong. Creating original web content with this framework is downright fun, and on the first project where I used it, my time was cut in half.
+
+<strong><em>4. </em><em><a href="http://wordpress.org" target="_blank">Wordpress</a></em><em> - Code is poetry</em></strong>
+Whether you're a designer or not, if you have a passion for publishing, <a href="http://wordpress.org" target="_blank">Wordpress</a> should be your CMS of choice. Obviously, it's a blogging platform, and isn't as robust as <a href="http://drupal.org" target="_blank">Drupal</a>, but in my mind, it really shouldn't be. Designers love how easy it is to create beautiful templates, and programmers dig it's flexibility. That sounds like the best of both worlds to me.
+
+Three most posts in this series are on the way - but for now, I'd like to know: what's in your design toolbox? Leave a comment and tell the world.
+
+<em>(Thanks to my friend, <a href="http://mitchcanter.com" target="_blank">Mitch Canter</a>, who introduced me to the 960 CSS framework. It's saved my butt countless times!)</em>

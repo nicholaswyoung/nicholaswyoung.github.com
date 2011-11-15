@@ -1,0 +1,23 @@
+title: Review: Dolphini Networks
+author: Nicholas
+date: 2009-08-19 01:06:51 -0500
+layout: post
+type: post
+
+Believe me, I don't like to stir up a hornet's nest, but it would seem that some of what I do tends to bring the thunder from some individuals. Honestly, when I join a community, it's to better others, and, of course, through the process of giving, myself. Those points outlined, I also tend to be a bit blunt. I believe in forgiveness, but repeated offenses do warrant being called out sometimes - so I'm warning you ahead of time.
+
+Earlier this year, in April, I began doing business with Dolphini Networks, a local datacenter that had sponsored many of the geek events here in town. I had met one of their employees at Podcamp Nashville 2009, and before that, had only a vague knowledge of their company - but naturally, knowing that they were a locally owned datacenter, when I needed dedicated server space, I went to them.
+
+Over the next several months, I had what could be considered a tumultuous relationship with them. I paid them every month, and they kept my server alive, but did precious more than that. At one point, I did go down and install an alternative OS on the box, simply because they were unable to provide me with a stable platform to begin with, and were no help when it came to troubleshooting the box. All their engineers knew how to do was look at the web-based control panel. Every time I put in a service request, I expected to wait the normal 48 hours or so before hearing from the staff, and often, they never returned my emails at all, until I pushed the matter.
+
+During an outage that lasted roughly 5 hours my my clock, I sent several support requests, which were, by their own admission, read but never responded to. I called, 48 hours later to get the scoop. I spoke with the CEO. Apparently, an individual tenant that was renting space from them, saturated the entire network, and essentially threw everybody else offline. Needless to say, for such a premium price, I was frustrated with the service. However, this is just the beginning.
+
+Several months later, I had another question. I emailed, and waited the normal 48 hours. I'm sending these messages in the middle of the week, so by this time, it's getting absurd. Finally, well over 10 days later, I get a response from the CEO Michael Krause. Yes, I finally have somebody who can fix my problems. Right? Wrong.
+
+Michael and I then have a discussion about terminating my service that spanned several emails. He agrees that they haven't provided the service that they should, and agrees to cancel my services, well before the agreement runs out - but not before questioning me on a rumor that he supposedly had heard:
+<blockquote>"...I was told by a few different parties that your business is not doing well.  Is there anything I can do to help you with your business plans, organization or advise?"</blockquote>
+Of course, I go on to inform him that I'm actually in a period of unprecedented growth, and ask for the names of those who are spreading the aforementioned rumor. He never responds. I have a good hunch that this is his way of excusing the poor service that they have given me, but I can't be sure, so I won't assert anything. The conversation finally ends peacefully, with his promise to cancel my service on August 15, 2009.
+
+On the morning of August 18th, I check the server. It's still up, so I send Michael a nice note, just ensuring that it will be terminated. He responds with this:
+<blockquote>"Nicholas, we obviously focus on thriving, stable companies.  Your services has been terminated.  Good luck in your future endeavors."</blockquote>
+Your vote of confidence in what I'm trying to do is encouraging, Michael. This morning alone, I've talked with several Nashville influencers who absolutely abhor your business. I'm not the only one. You see, the problem is this: your company thrives on large corporations who have money to throw away. If the customer service sucks, it's not a problem. I, on the other hand, must operate lean, and will gladly pay for your services if each and every promise is upheld. Furthermore, your disdain for me, and now, the general small business community, which you so proudly claim to serve, is in the light. No regrets, no apologies. Deal with it.

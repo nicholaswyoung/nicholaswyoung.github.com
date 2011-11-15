@@ -1,0 +1,11 @@
+title: Hey Twitter, I&#039;ve got an idea!
+author: Nicholas
+date: 2009-08-24 13:37:51 -0500
+layout: post
+type: post
+
+With an ever increasing user base, and the serious issue with down time in the past, I can only imagine how Twitter is trying to lighten the load on their servers. For several months, I've discussed this idea with <a href="http://twitter.com/susandyoung" target="_blank">@susandyoung</a>, and now that I know some Ruby syntax, I'm finally clear on how to implement it. While this may not be a permanent fix, I believe that it will help reduce the load on one of Twitter's main communication protocols: SMS.
+
+Essentially, whenever a user makes a request to the API, look at the time stamp. If that user has a history of requests in 5 minute increments (or less), temporarily flip off their SMS alerts. I, for one, hate having my phone buzz every other minute while I'm clearly logged in with <a href="http://atebits.com/tweetie-mac" target="_blank">Tweetie</a>.
+
+So, what does the community at large think of this? Should we be able to turn this setting on and off from the control panel? I'm interested in hearing what you have to say.

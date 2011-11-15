@@ -1,0 +1,13 @@
+title: The Future is Mobile
+author: Nicholas
+date: 2009-07-08 11:12:27 -0500
+layout: post
+type: post
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/LtO2HJK-_AY&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/LtO2HJK-_AY&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+For years, we've been taught that media must be created and distributed by large corporations in well-lit studios with large budgets. Not anymore.
+
+The video you see above was supposedly shot using only an iPhone 3GS. I don't know what was used for editing, but it was definitely decent.
+
+With the power of quality video in the palm of your hand, what does it mean for network TV providers? I doubt that they will continue to be the main source of news, but the accuracy of citizen journalism is still questionable. What's your opinion?

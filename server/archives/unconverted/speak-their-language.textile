@@ -1,0 +1,13 @@
+title: Speak Their Language
+author: Nicholas
+date: 2009-07-03 10:59:49 -0500
+layout: post
+type: post
+
+I didn't post for the past two days. I moved on Tuesday, and if the process of carting your belongings around doesn't kill you, I guess you're much stronger for it. I suggest that you rest the following day, as I did. Yesterday, it was back to business as usual, and free-time was sparse.
+
+Last night, while visiting the neighborhood pool for the first time, I ran into the nicest, middle-aged chinese couple. They both spoke a bit of english, but unfortunately, I don't speak any chinese. Unless I used simple language, we had reached an impasse.
+
+For the most part, my clients don't speak in my native tongue. Sure, most developers would understand if I walked up and started spouting off about code - but we both live and work in the same space. You see, it's my job to adapt, and speak the client's language. Rather than removing a project from their hands and just doing it, I prefer to bring them along for the ride. If they understand where the project came from, and where it's heading, my chances of success grow exponentially.
+
+So, think about it. Are you speaking your clients' language? If not, try it. The results will surprise you.

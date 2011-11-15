@@ -46,7 +46,7 @@ body {
   margin-bottom: 15px;
 }
 .container .main p.heading {
-  font-weight: 500;
+  font-weight: 600;
 }
 .container .main ul#social {
   list-style-type: none;
@@ -112,7 +112,6 @@ body {
   text-align: right;
 }
 .container footer p.cite {
-  font-size: 0.6em;
   display: block;
 }
 @media screen and (max-width: 1080px) {

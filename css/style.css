@@ -112,7 +112,6 @@ body {
   text-align: right;
 }
 .container footer p.cite {
-  font-size: 0.7em;
   display: block;
 }
 @media screen and (max-width: 1080px) {
